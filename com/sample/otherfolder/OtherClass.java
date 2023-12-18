@@ -10,5 +10,6 @@ public class OtherClass {
     public void Print()
     {
         System.out.println("Class number n : "+ n);
+        System.out.println("New Changes to be committed");
     }
 }
